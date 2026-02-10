@@ -1,0 +1,9 @@
+langchain
+transformers
+sentence-transformers
+faiss-cpu
+pypdf
+flask
+peft
+trl
+datasets
